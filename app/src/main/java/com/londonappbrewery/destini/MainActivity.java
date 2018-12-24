@@ -104,6 +104,7 @@ public class MainActivity extends AppCompatActivity {
         ans1.setText("RESET");
         ans1.setVisibility(View.VISIBLE);
         ans1.setTextSize(getResources().getDimension(R.dimen.reset));
+
     }
 
     private void showPopUp()
